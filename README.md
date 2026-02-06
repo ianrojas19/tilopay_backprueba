@@ -485,5 +485,5 @@ routes/
 
 
 ## Notas
-Por convención del propio framework y buenas practicas, codigo en general, comentarios, funciones, tablas y atributos estan escritos en inglés.
+Por convención del propio framework, coherencia con el ejercicio y buenas practicas, codigo en general, comentarios, funciones, tablas y atributos estan escritos en inglés.
 
