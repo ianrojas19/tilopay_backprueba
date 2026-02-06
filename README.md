@@ -482,3 +482,8 @@ routes/
 | `subject` | Requerido, máximo 120 caracteres |
 | `body` | Requerido |
 | `status` | Solo `open` o `closed` (en actualización) |
+
+
+## Notas
+Por convención del propio framework y buenas practicas, codigo en general, comentarios, funciones, tablas y atributos estan escritos en inglés.
+
